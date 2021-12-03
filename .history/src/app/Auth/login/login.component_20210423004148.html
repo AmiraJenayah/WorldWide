@@ -1,0 +1,42 @@
+<form (ngSubmit)="login()" #f="ngForm">
+    <div class="login-body" [ngClass]="{'layout-dark': dark, 'layout-light': !dark}">
+        <div class="login-content">
+            <div class="login-panel">
+                <div class="login-panel-content">
+                    <h2>Login</h2>
+                    <div class="forms p-fluid  p-grid">
+                        <div class="p-field p-col-12 p-md-12">
+                            <div class="login-input-wrapper">
+                                <label for="email">Email</label>
+                                <input [(ngModel)]="user.email" pInputText placeholder="Nom..." name="email">
+                                <i class="pi pi-user"></i>
+                            </div>
+                        </div>
+                        <div class="p-field p-col-12 p-md-12">
+                            <div class="login-input-wrapper">
+                                <label for="password">Mot de passe</label>
+                                <input type="password" [(ngModel)]="user.password" name="password"
+                                    placeholder="Mot de passe .." pPassword [feedback]="false">
+                                <i class="pi pi-lock"></i>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="p-fluid  p-grid">
+                        <div class="p-field p-col-12 p-md-12">
+                            
+                           <!-- <p-checkbox [(ngModel)]="checked" [(ngModel)]="check" name="check" label="Remember me"
+                                value="SaveInfo" binary="true"></p-checkbox>-->
+                        </div>
+                    </div>
+                    <div class="p-fluid  p-grid">
+                        <div class="p-field p-col-12 p-md-6">
+                            <button pButton pRipple label="Login" type="submit"
+                                class="p-button-success p-button pRipple " [disabled]="f.invalid"> </button>
+                        </div>
+                       
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>

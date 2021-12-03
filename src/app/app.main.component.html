@@ -1,0 +1,28 @@
+<div class="layout-wrapper" (click)="onLayoutClick()" [ngClass]="{'layout-horizontal': horizontalMenu,
+                'layout-wrapper-static': staticMenuActive,
+                'layout-rightpanel-active': rightPanelActive,
+      'layout-topbar-mobile-active': topbarMobileMenuActive,
+                'layout-megamenu-mobile-active': megaMenuMobileActive,
+                'layout-sidebar-mobile-active': menuMobileActive,
+                'p-input-filled': inputStyle === 'filled',
+                'p-ripple-disabled': !ripple}" [class]="menuColor">
+
+
+    <div class="layout-main">
+
+        <!--   ,<app-rightpanel></app-rightpanel> -->
+
+        <app-topbar></app-topbar>
+        <app-breadcrumb></app-breadcrumb>
+
+        <div class="layout-content">
+            <router-outlet></router-outlet>
+        </div>
+
+        <app-footer></app-footer>
+
+        <app-config></app-config>
+
+        <div class="layout-main-mask"></div>
+    </div>
+</div>

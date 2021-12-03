@@ -1,0 +1,92 @@
+
+
+<p-toolbar styleClass="p-mb-12" > 
+    <ng-template pTemplate="left">
+        Bienvenue to Wikipedia Sport
+    </ng-template>
+    <ng-template pTemplate="right">
+        <p-dropdown
+        name="selectedName"
+        optionLabel="name"
+        appendTo="body"
+        [options]="langue"
+        [(ngModel)]="selectedName"
+        placeholder="Select"
+        required
+       (onChange)="onChange(selectedName)" 
+      >
+      </p-dropdown>
+    </ng-template>
+</p-toolbar>
+<div class="p-grid" style="margin: 5rem;">
+
+    
+ <div class="p-fluid p-formgrid p-grid">
+    <div *ngFor="let commande of commandes"  class="p-field p-col-4 p-md-4"> 
+        
+            
+                <div class="card widget-store-items" >
+                    <div class="store-cards-container">
+                        <div class="p-grid store-cards">
+                            <div class="store-card" >
+                                <div class="store-card-image">
+                                    <img [src]="commande.relationships.images.data[0]?.url" alt="." />
+                                </div>
+                                <div *ngIf="number == 0" class="store-card-contentUS">
+                                    <h3><span>{{commande.attributes.name}}</span></h3>
+                                    <h5>{{commande.attributes.description}}</h5>
+
+                                </div>
+                                <div *ngIf="number == 1" class="store-card-contentUK">
+                                    <h3><span>{{commande.attributes.name}}</span></h3>
+                                    <h5>{{commande.attributes.description}}</h5>
+
+                                </div>
+                                <div *ngIf="number == 2" class="store-card-contentFR">
+                                    <h3><span>{{commande.attributes.name}}</span></h3>
+                                    <h5>{{commande.attributes.description}}</h5>
+
+                                </div>
+                                <div *ngIf="number == 3" class="store-card-contentFR">
+                                    <h3><span>{{commande.attributes.name}}</span></h3>
+                                    <h5>{{commande.attributes.description}}</h5>
+
+                                </div>
+                                <div *ngIf="number == 4" class="store-card-contentFR">
+                                    <h3><span>{{commande.attributes.name}}</span></h3>
+                                    <h5>{{commande.attributes.description}}</h5>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        </div>
+    </div>
+
+
+
+  
+</div>
+
+
+
+<!-- <p-dialog [(visible)]="historique" [modal]="true" (onHide)="hideDi()" [style]="{width: '800px'}" styleClass="p-fluid"
+    header="Historique Commande">
+ 
+
+    <ng-template pTemplate="content">
+
+        <app-list-of-agent [commandetraitements]="commandetraitements" [loader]="loader" [userId]="userIdOFCommande">
+        </app-list-of-agent>
+
+    </ng-template>
+    <ng-template pTemplate="footer">
+        <button pButton pRipple label="Cancel" icon="pi pi-times" class="p-button-text" (click)="hideDi()"></button>
+    </ng-template>
+
+
+</p-dialog> -->
+
+<p-toast></p-toast>

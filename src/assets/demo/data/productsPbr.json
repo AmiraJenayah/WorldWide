@@ -1,0 +1,3115 @@
+{
+	"data": [
+		{
+			"id": 282,
+			"type": "sports",
+			"attributes": {
+				"name": "bicicleta de estrada",
+				"description": "O ciclismo de estrada é um desporto recreativo e turístico, mas é também muito competitivo. Isto significa que tem de ser muito duro para percorrer longas distâncias, mas também táctico para se proteger do vento e poupar as suas forças. Ainda tem alguma energia para o sprint final?",
+				"parent_id": null,
+				"decathlon_id": 282,
+				"slug": "road-cycling",
+				"locale": "en-us",
+				"weather": [],
+				"icon": "https://sports-api-production.s3.amazonaws.com/uploads/sport/icon/282/282.svg"
+			},
+			"relationships": {
+				"children": [
+					{
+						"data": {
+							"id": 258,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/258"
+						}
+					},
+					{
+						"data": {
+							"id": 283,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/283"
+						}
+					},
+					{
+						"data": {
+							"id": 19,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/19"
+						}
+					}
+				],
+				"parent": {
+					"data": {}
+				},
+				"group": {
+					"data": {
+						"id": 11,
+						"type": "groups"
+					},
+					"links": {
+						"self": "/groups/11"
+					}
+				},
+				"related": [
+					{
+						"data": {
+							"id": 258,
+							"type": "sports",
+							"weight": "0.555975993818598"
+						},
+						"links": {
+							"self": "/sports/258"
+						}
+					},
+					{
+						"data": {
+							"id": 659,
+							"type": "sports",
+							"weight": "0.385238922015507"
+						},
+						"links": {
+							"self": "/sports/659"
+						}
+					},
+					{
+						"data": {
+							"id": 285,
+							"type": "sports",
+							"weight": "0.38307271996933"
+						},
+						"links": {
+							"self": "/sports/285"
+						}
+					},
+					{
+						"data": {
+							"id": 662,
+							"type": "sports",
+							"weight": "0.330794383545505"
+						},
+						"links": {
+							"self": "/sports/662"
+						}
+					},
+					{
+						"data": {
+							"id": 20,
+							"type": "sports",
+							"weight": "0.309739191449537"
+						},
+						"links": {
+							"self": "/sports/20"
+						}
+					},
+					{
+						"data": {
+							"id": 656,
+							"type": "sports",
+							"weight": "0.307542969962419"
+						},
+						"links": {
+							"self": "/sports/656"
+						}
+					},
+					{
+						"data": {
+							"id": 660,
+							"type": "sports",
+							"weight": "0.281105997162769"
+						},
+						"links": {
+							"self": "/sports/660"
+						}
+					},
+					{
+						"data": {
+							"id": 19,
+							"type": "sports",
+							"weight": "0.269129736675578"
+						},
+						"links": {
+							"self": "/sports/19"
+						}
+					},
+					{
+						"data": {
+							"id": 661,
+							"type": "sports",
+							"weight": "0.232396505753174"
+						},
+						"links": {
+							"self": "/sports/661"
+						}
+					},
+					{
+						"data": {
+							"id": 281,
+							"type": "sports",
+							"weight": "0.22137501389301"
+						},
+						"links": {
+							"self": "/sports/281"
+						}
+					}
+				],
+				"context": {
+					"data": {}
+				},
+				"tags": {
+					"data": [
+						"road-bicycle-racing",
+						"city-biking",
+						"cyclist",
+						"touring",
+						"city-bike",
+						"urban-cycling",
+						"racing-cyclist",
+						"bike",
+						"road",
+						"racing",
+						"race",
+						"EN_PLAYLIST_workout-solo",
+						"EN_PLAYLIST_wheels-on",
+						"EN_PLAYLIST_cardio",
+						"EN_PLAYLIST_explore-travel"
+					]
+				},
+				"images": {
+					"data": [
+						{
+							"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/282/roadcycling.jpg",
+							"variants": [
+								{
+									"thumbnail": {
+										"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/282/thumbnail_roadcycling.jpg"
+									},
+									"medium": {
+										"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/282/medium_roadcycling.jpg"
+									}
+								}
+							]
+						}
+					]
+				}
+			},
+			"links": {
+				"self": "/sports/282"
+			}
+		},
+		{
+			"id": 284,
+			"type": "sports",
+			"attributes": {
+				"name": "Bicicleta híbrida",
+				"description": "Combinando características da estrada e da bicicleta de montanha, a bicicleta híbrida é o que precisa para andar na cidade, em estradas longas e mesmo em caminhos mais sinuosos. Mais do que um desporto recreativo, a bicicleta híbrida é também necessária para competições, tais como o ciclo-cross, que tem lugar em circuitos ao ar livre com obstáculos.",
+				"parent_id": null,
+				"decathlon_id": 284,
+				"slug": "hybrid-biking",
+				"locale": "en-us",
+				"weather": [],
+				"icon": "https://sports-api-production.s3.amazonaws.com/uploads/sport/icon/284/284.svg"
+			},
+			"relationships": {
+				"children": [
+					{
+						"data": {
+							"id": 659,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/659"
+						}
+					},
+					{
+						"data": {
+							"id": 23,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/23"
+						}
+					}
+				],
+				"parent": {
+					"data": {}
+				},
+				"group": {
+					"data": {
+						"id": 11,
+						"type": "groups"
+					},
+					"links": {
+						"self": "/groups/11"
+					}
+				},
+				"related": {
+					"data": {}
+				},
+				"context": {
+					"data": {}
+				},
+				"tags": {
+					"data": [
+						"cyclocross",
+						"road-bike",
+						"touring-bike",
+						"mountain-bike",
+						"trekking-bike",
+						"cross-bike",
+						"commuter-bike",
+						"city-bike",
+						"comfort-bike",
+						"cycling",
+						"cyclist",
+						"EN_PLAYLIST_wheels-on",
+						"EN_PLAYLIST_cardio",
+						"EN_PLAYLIST_explore-travel"
+					]
+				},
+				"images": {
+					"data": [
+						{
+							"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/284/hybrid.jpg",
+							"variants": [
+								{
+									"thumbnail": {
+										"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/284/thumbnail_hybrid.jpg"
+									},
+									"medium": {
+										"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/284/medium_hybrid.jpg"
+									}
+								}
+							]
+						}
+					]
+				}
+			},
+			"links": {
+				"self": "/sports/284"
+			}
+		},
+		{
+			"id": 285,
+			"type": "sports",
+			"attributes": {
+				"name": "Ciclismo de montanha",
+				"description": "O ciclismo de montanha, também conhecido como mountain bike, é um esporte recreativo e de competição com muitas modalidades que ocorrem em terrenos acidentados fora das estradas pavimentadas. Se você adora andar de bicicleta e está procurando uma emoção, segure o guidão e vá para uma pedalada descendente!",
+				"parent_id": null,
+				"decathlon_id": 285,
+				"slug": "mountain-biking",
+				"locale": "en-us",
+				"weather": [],
+				"icon": "https://sports-api-production.s3.amazonaws.com/uploads/sport/icon/285/285.svg"
+			},
+			"relationships": {
+				"children": [
+					{
+						"data": {
+							"id": 660,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/660"
+						}
+					},
+					{
+						"data": {
+							"id": 661,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/661"
+						}
+					}
+				],
+				"parent": {
+					"data": {}
+				},
+				"group": {
+					"data": {
+						"id": 11,
+						"type": "groups"
+					},
+					"links": {
+						"self": "/groups/11"
+					}
+				},
+				"related": [
+					{
+						"data": {
+							"id": 660,
+							"type": "sports",
+							"weight": "0.505748251466393"
+						},
+						"links": {
+							"self": "/sports/660"
+						}
+					},
+					{
+						"data": {
+							"id": 282,
+							"type": "sports",
+							"weight": "0.38307271996933"
+						},
+						"links": {
+							"self": "/sports/282"
+						}
+					},
+					{
+						"data": {
+							"id": 661,
+							"type": "sports",
+							"weight": "0.271083913559213"
+						},
+						"links": {
+							"self": "/sports/661"
+						}
+					},
+					{
+						"data": {
+							"id": 659,
+							"type": "sports",
+							"weight": "0.268124408836987"
+						},
+						"links": {
+							"self": "/sports/659"
+						}
+					},
+					{
+						"data": {
+							"id": 258,
+							"type": "sports",
+							"weight": "0.262621947997103"
+						},
+						"links": {
+							"self": "/sports/258"
+						}
+					},
+					{
+						"data": {
+							"id": 614,
+							"type": "sports",
+							"weight": "0.262324197417162"
+						},
+						"links": {
+							"self": "/sports/614"
+						}
+					},
+					{
+						"data": {
+							"id": 513,
+							"type": "sports",
+							"weight": "0.24380760492296"
+						},
+						"links": {
+							"self": "/sports/513"
+						}
+					},
+					{
+						"data": {
+							"id": 657,
+							"type": "sports",
+							"weight": "0.226587215296437"
+						},
+						"links": {
+							"self": "/sports/657"
+						}
+					},
+					{
+						"data": {
+							"id": 339,
+							"type": "sports",
+							"weight": "0.224700964113719"
+						},
+						"links": {
+							"self": "/sports/339"
+						}
+					},
+					{
+						"data": {
+							"id": 658,
+							"type": "sports",
+							"weight": "0.210685817680277"
+						},
+						"links": {
+							"self": "/sports/658"
+						}
+					}
+				],
+				"context": {
+					"data": {}
+				},
+				"tags": {
+					"data": [
+						"trail-riding",
+						"cycling",
+						"cyclist",
+						"all-mountain",
+						"enduro",
+						"downhill",
+						"downhill-mountain-biking",
+						"four-cross",
+						"dual-slalom",
+						"freeride",
+						"dirt-jumping",
+						"trials",
+						"marathon",
+						"EN_PLAYLIST_wheels-on",
+						"EN_PLAYLIST_cardio",
+						"EN_PLAYLIST_explore-travel"
+					]
+				},
+				"images": {
+					"data": [
+						{
+							"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/285/mountainbike.jpg",
+							"variants": [
+								{
+									"thumbnail": {
+										"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/285/thumbnail_mountainbike.jpg"
+									},
+									"medium": {
+										"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/285/medium_mountainbike.jpg"
+									}
+								}
+							]
+						}
+					]
+				}
+			},
+			"links": {
+				"self": "/sports/285"
+			}
+		},
+		{
+			"id": 224,
+			"type": "sports",
+			"attributes": {
+				"name": "Natação",
+				"description": "A natação inclui vários desportos que são praticados à superfície da água e debaixo de água. Permite-lhe utilizar todo o seu corpo para se mover, por vezes em eventos de velocidade, por vezes em eventos artísticos, exigindo uma grande coordenação em todos os momentos. Acima de tudo, graças ao efeito da gravidade, a natação permite-lhe minimizar o impacto da força no seu corpo e nas suas articulações, para além de ser um desporto completo e muito acessível que lhe pode permitir sentir-se facilmente como um peixe na água!\n",
+				"parent_id": null,
+				"decathlon_id": 224,
+				"slug": "swimming",
+				"locale": "en-us",
+				"weather": [],
+				"icon": "https://sports-api-production.s3.amazonaws.com/uploads/sport/icon/224/224.svg"
+			},
+			"relationships": {
+				"children": [
+					{
+						"data": {
+							"id": 228,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/228"
+						}
+					},
+					{
+						"data": {
+							"id": 500,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/500"
+						}
+					},
+					{
+						"data": {
+							"id": 501,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/501"
+						}
+					},
+					{
+						"data": {
+							"id": 331,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/331"
+						}
+					},
+					{
+						"data": {
+							"id": 406,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/406"
+						}
+					},
+					{
+						"data": {
+							"id": 385,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/385"
+						}
+					}
+				],
+				"parent": {
+					"data": {}
+				},
+				"group": {
+					"data": {
+						"id": 1,
+						"type": "groups"
+					},
+					"links": {
+						"self": "/groups/1"
+					}
+				},
+				"related": [
+					{
+						"data": {
+							"id": 385,
+							"type": "sports",
+							"weight": "0.615224386621842"
+						},
+						"links": {
+							"self": "/sports/385"
+						}
+					},
+					{
+						"data": {
+							"id": 406,
+							"type": "sports",
+							"weight": "0.463384564034215"
+						},
+						"links": {
+							"self": "/sports/406"
+						}
+					},
+					{
+						"data": {
+							"id": 501,
+							"type": "sports",
+							"weight": "0.387737895593059"
+						},
+						"links": {
+							"self": "/sports/501"
+						}
+					},
+					{
+						"data": {
+							"id": 228,
+							"type": "sports",
+							"weight": "0.370475353341329"
+						},
+						"links": {
+							"self": "/sports/228"
+						}
+					},
+					{
+						"data": {
+							"id": 500,
+							"type": "sports",
+							"weight": "0.327135683193603"
+						},
+						"links": {
+							"self": "/sports/500"
+						}
+					},
+					{
+						"data": {
+							"id": 691,
+							"type": "sports",
+							"weight": "0.300660209107527"
+						},
+						"links": {
+							"self": "/sports/691"
+						}
+					},
+					{
+						"data": {
+							"id": 219,
+							"type": "sports",
+							"weight": "0.28629735995853"
+						},
+						"links": {
+							"self": "/sports/219"
+						}
+					},
+					{
+						"data": {
+							"id": 900,
+							"type": "sports",
+							"weight": "0.185605562250738"
+						},
+						"links": {
+							"self": "/sports/900"
+						}
+					},
+					{
+						"data": {
+							"id": 687,
+							"type": "sports",
+							"weight": "0.181602172689729"
+						},
+						"links": {
+							"self": "/sports/687"
+						}
+					},
+					{
+						"data": {
+							"id": 341,
+							"type": "sports",
+							"weight": "0.181389100054086"
+						},
+						"links": {
+							"self": "/sports/341"
+						}
+					}
+				],
+				"context": {
+					"data": {}
+				},
+				"tags": {
+					"data": [
+						"bathing",
+						"swimming-pool",
+						"triathlon",
+						"crawl",
+						"breaststroke",
+						"butterfly",
+						"backstroke",
+						"freestyle",
+						"open-water-swimming",
+						"marathon-swimming",
+						"synchronized-swimming",
+						"paralympic-swimming",
+						"aqualearning",
+						"competitive-swimming",
+						"EN_PLAYLIST_workout-solo",
+						"EN_PLAYLIST_cardio",
+						"EN_PLAYLIST_water-sports"
+					]
+				},
+				"images": {
+					"data": [
+						{
+							"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/224/swimming.jpg",
+							"variants": [
+								{
+									"thumbnail": {
+										"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/224/thumbnail_swimming.jpg"
+									},
+									"medium": {
+										"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/224/medium_swimming.jpg"
+									}
+								}
+							]
+						}
+					]
+				}
+			},
+			"links": {
+				"self": "/sports/224"
+			}
+		},
+		{
+			"id": 286,
+			"type": "sports",
+			"attributes": {
+				"name": "Competição equestre",
+				"description":"As competições equestres incluem todas as disciplinas que se pode praticar, sozinho ou como parte de uma equipa, com um cavalo, sem participar numa corrida. Quer seja recreativo ou competitivo, os desportos equestres incluem adestramento, saltos de obstáculos, pólo, horseball e muito mais. É uma óptima maneira de melhorar a sua postura e tónus muscular, e de fazer um novo amigo! ",
+				"parent_id": null,
+				"decathlon_id": 286,
+				"slug": "horse-competition",
+				"locale": "en-us",
+				"weather": [],
+				"icon": "https://sports-api-production.s3.amazonaws.com/uploads/sport/icon/286/286.svg"
+			},
+			"relationships": {
+				"children": [
+					{
+						"data": {
+							"id": 412,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/412"
+						}
+					},
+					{
+						"data": {
+							"id": 411,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/411"
+						}
+					},
+					{
+						"data": {
+							"id": 59,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/59"
+						}
+					},
+					{
+						"data": {
+							"id": 58,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/58"
+						}
+					},
+					{
+						"data": {
+							"id": 693,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/693"
+						}
+					},
+					{
+						"data": {
+							"id": 694,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/694"
+						}
+					},
+					{
+						"data": {
+							"id": 695,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/695"
+						}
+					},
+					{
+						"data": {
+							"id": 696,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/696"
+						}
+					},
+					{
+						"data": {
+							"id": 697,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/697"
+						}
+					},
+					{
+						"data": {
+							"id": 698,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/698"
+						}
+					},
+					{
+						"data": {
+							"id": 699,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/699"
+						}
+					},
+					{
+						"data": {
+							"id": 57,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/57"
+						}
+					}
+				],
+				"parent": {
+					"data": {}
+				},
+				"group": {
+					"data": {
+						"id": 14,
+						"type": "groups"
+					},
+					"links": {
+						"self": "/groups/14"
+					}
+				},
+				"related": {
+					"data": {}
+				},
+				"context": {
+					"data": {}
+				},
+				"tags": {
+					"data": [
+						"horse-dressage",
+						"endurance-riding",
+						"equestrian-mounted-games",
+						"horse-eventing",
+						"polo",
+						"horse-show-jumping",
+						"tent-pegging",
+						"vaulting",
+						"horse",
+						"EN_PLAYLIST_explore-travel",
+						"EN_PLAYLIST_discovery"
+					]
+				},
+				"images": {
+					"data": [
+						{
+							"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/286/equitation.jpg",
+							"variants": [
+								{
+									"thumbnail": {
+										"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/286/thumbnail_equitation.jpg"
+									},
+									"medium": {
+										"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/286/medium_equitation.jpg"
+									}
+								}
+							]
+						}
+					]
+				}
+			},
+			"links": {
+				"self": "/sports/286"
+			}
+		},
+		{
+			"id": 257,
+			"type": "sports",
+			"attributes": {
+				"name": "Em funcionamento",
+				"description": "A corrida não é apenas um meio de transporte, ela é também o esporte mais fácil de praticar. Tudo o que você precisa é de um par de sapatos e pronto! Você pode correr na pista, na estrada, na natureza ou em uma esteira. Sozinho ou em grupo, em curtas distâncias (por exemplo, sprints) ou longas distâncias (por exemplo, maratonas), a corrida pode ser recreativa ou competitiva (atletismo) e também pode ser um bom treinamento para outro esporte.",
+				"parent_id": null,
+				"decathlon_id": 257,
+				"slug": "running",
+				"locale": "en-us",
+				"weather": [],
+				"icon": null
+			},
+			"relationships": {
+				"children": [
+					{
+						"data": {
+							"id": 487,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/487"
+						}
+					},
+					{
+						"data": {
+							"id": 461,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/461"
+						}
+					},
+					{
+						"data": {
+							"id": 5,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/5"
+						}
+					},
+					{
+						"data": {
+							"id": 338,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/338"
+						}
+					},
+					{
+						"data": {
+							"id": 340,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/340"
+						}
+					},
+					{
+						"data": {
+							"id": 341,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/341"
+						}
+					},
+					{
+						"data": {
+							"id": 507,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/507"
+						}
+					},
+					{
+						"data": {
+							"id": 508,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/508"
+						}
+					},
+					{
+						"data": {
+							"id": 509,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/509"
+						}
+					},
+					{
+						"data": {
+							"id": 510,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/510"
+						}
+					},
+					{
+						"data": {
+							"id": 512,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/512"
+						}
+					},
+					{
+						"data": {
+							"id": 514,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/514"
+						}
+					},
+					{
+						"data": {
+							"id": 516,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/516"
+						}
+					},
+					{
+						"data": {
+							"id": 518,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/518"
+						}
+					},
+					{
+						"data": {
+							"id": 519,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/519"
+						}
+					},
+					{
+						"data": {
+							"id": 520,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/520"
+						}
+					},
+					{
+						"data": {
+							"id": 521,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/521"
+						}
+					},
+					{
+						"data": {
+							"id": 517,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/517"
+						}
+					},
+					{
+						"data": {
+							"id": 280,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/280"
+						}
+					},
+					{
+						"data": {
+							"id": 261,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/261"
+						}
+					},
+					{
+						"data": {
+							"id": 389,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/389"
+						}
+					},
+					{
+						"data": {
+							"id": 390,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/390"
+						}
+					},
+					{
+						"data": {
+							"id": 4,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/4"
+						}
+					},
+					{
+						"data": {
+							"id": 513,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/513"
+						}
+					},
+					{
+						"data": {
+							"id": 511,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/511"
+						}
+					},
+					{
+						"data": {
+							"id": 515,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/515"
+						}
+					},
+					{
+						"data": {
+							"id": 339,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/339"
+						}
+					},
+					{
+						"data": {
+							"id": 12,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/12"
+						}
+					}
+				],
+				"parent": {
+					"data": {}
+				},
+				"group": {
+					"data": {
+						"id": 2,
+						"type": "groups"
+					},
+					"links": {
+						"self": "/groups/2"
+					}
+				},
+				"related": [
+					{
+						"data": {
+							"id": 508,
+							"type": "sports",
+							"weight": "0.474176109983794"
+						},
+						"links": {
+							"self": "/sports/508"
+						}
+					},
+					{
+						"data": {
+							"id": 511,
+							"type": "sports",
+							"weight": "0.474176109983794"
+						},
+						"links": {
+							"self": "/sports/511"
+						}
+					},
+					{
+						"data": {
+							"id": 513,
+							"type": "sports",
+							"weight": "0.317845925307784"
+						},
+						"links": {
+							"self": "/sports/513"
+						}
+					},
+					{
+						"data": {
+							"id": 280,
+							"type": "sports",
+							"weight": "0.293367778204929"
+						},
+						"links": {
+							"self": "/sports/280"
+						}
+					},
+					{
+						"data": {
+							"id": 510,
+							"type": "sports",
+							"weight": "0.257554711155094"
+						},
+						"links": {
+							"self": "/sports/510"
+						}
+					},
+					{
+						"data": {
+							"id": 517,
+							"type": "sports",
+							"weight": "0.254586820107521"
+						},
+						"links": {
+							"self": "/sports/517"
+						}
+					},
+					{
+						"data": {
+							"id": 20,
+							"type": "sports",
+							"weight": "0.227564648299588"
+						},
+						"links": {
+							"self": "/sports/20"
+						}
+					},
+					{
+						"data": {
+							"id": 522,
+							"type": "sports",
+							"weight": "0.221144671477612"
+						},
+						"links": {
+							"self": "/sports/522"
+						}
+					},
+					{
+						"data": {
+							"id": 520,
+							"type": "sports",
+							"weight": "0.218923881450861"
+						},
+						"links": {
+							"self": "/sports/520"
+						}
+					},
+					{
+						"data": {
+							"id": 12,
+							"type": "sports",
+							"weight": "0.215903988277195"
+						},
+						"links": {
+							"self": "/sports/12"
+						}
+					}
+				],
+				"context": {
+					"data": {}
+				},
+				"tags": {
+					"data": [
+						"run",
+						"10k-run",
+						"5k-run",
+						"adventure-running",
+						"cross-country-running",
+						"ekiden",
+						"fell-running",
+						"half-marathon",
+						"hurdling",
+						"indoor-running",
+						"jogging",
+						"long-distance-running",
+						"marathon",
+						"middle-distance-running",
+						"mountain-running",
+						"paralympic-running",
+						"relay-race",
+						"road-running",
+						"skyrunning",
+						"snowshoe-running",
+						"sprinting",
+						"sprint",
+						"steeplechase",
+						"tower-running",
+						"track-field",
+						"track-and-field",
+						"trail-running",
+						"ultramarathon",
+						"ironman",
+						"weelchair-running",
+						"runner",
+						"athlete",
+						"aerobic-race",
+						"anaerobic-race",
+						"EN_PLAYLIST_workout-solo",
+						"EN_PLAYLIST_cardio",
+						"EN_PLAYLIST_explore-travel"
+					]
+				},
+				"images": {
+					"data": [
+						{
+							"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/257/running.jpg",
+							"variants": [
+								{
+									"thumbnail": {
+										"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/257/thumbnail_running.jpg"
+									},
+									"medium": {
+										"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/257/medium_running.jpg"
+									}
+								}
+							]
+						}
+					]
+				}
+			},
+			"links": {
+				"self": "/sports/257"
+			}
+		},
+		{
+			"id": 66,
+			"type": "sports",
+			"attributes": {
+				"name": "Esqui",
+				"description": "Nos seus esquis, aqueles patins longos, estreitos e escorregadios, pode praticar várias disciplinas que o levarão, por diversão ou em competição, ao coração das mais belas paisagens de Inverno. Será capaz de atirar pelas encostas com curvas bem controladas, permitindo-lhe obter algum ar fresco e fortalecer o seu sistema cardiovascular. Aproveite o passeio!",
+				"parent_id": null,
+				"decathlon_id": 66,
+				"slug": "skiing",
+				"locale": "en-us",
+				"weather": [],
+				"icon": "https://sports-api-production.s3.amazonaws.com/uploads/sport/icon/66/66.svg"
+			},
+			"relationships": {
+				"children": [
+					{
+						"data": {
+							"id": 788,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/788"
+						}
+					},
+					{
+						"data": {
+							"id": 789,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/789"
+						}
+					},
+					{
+						"data": {
+							"id": 790,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/790"
+						}
+					},
+					{
+						"data": {
+							"id": 791,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/791"
+						}
+					},
+					{
+						"data": {
+							"id": 792,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/792"
+						}
+					},
+					{
+						"data": {
+							"id": 787,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/787"
+						}
+					},
+					{
+						"data": {
+							"id": 785,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/785"
+						}
+					},
+					{
+						"data": {
+							"id": 68,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/68"
+						}
+					},
+					{
+						"data": {
+							"id": 786,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/786"
+						}
+					},
+					{
+						"data": {
+							"id": 67,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/67"
+						}
+					}
+				],
+				"parent": {
+					"data": {}
+				},
+				"group": {
+					"data": {
+						"id": 22,
+						"type": "groups"
+					},
+					"links": {
+						"self": "/groups/22"
+					}
+				},
+				"related": [
+					{
+						"data": {
+							"id": 67,
+							"type": "sports",
+							"weight": "0.717408365270802"
+						},
+						"links": {
+							"self": "/sports/67"
+						}
+					},
+					{
+						"data": {
+							"id": 805,
+							"type": "sports",
+							"weight": "0.674247234527703"
+						},
+						"links": {
+							"self": "/sports/805"
+						}
+					},
+					{
+						"data": {
+							"id": 268,
+							"type": "sports",
+							"weight": "0.663388683308328"
+						},
+						"links": {
+							"self": "/sports/268"
+						}
+					},
+					{
+						"data": {
+							"id": 156,
+							"type": "sports",
+							"weight": "0.646711964260144"
+						},
+						"links": {
+							"self": "/sports/156"
+						}
+					},
+					{
+						"data": {
+							"id": 314,
+							"type": "sports",
+							"weight": "0.600022001161894"
+						},
+						"links": {
+							"self": "/sports/314"
+						}
+					},
+					{
+						"data": {
+							"id": 807,
+							"type": "sports",
+							"weight": "0.543581310257668"
+						},
+						"links": {
+							"self": "/sports/807"
+						}
+					},
+					{
+						"data": {
+							"id": 786,
+							"type": "sports",
+							"weight": "0.540583572933582"
+						},
+						"links": {
+							"self": "/sports/786"
+						}
+					},
+					{
+						"data": {
+							"id": 789,
+							"type": "sports",
+							"weight": "0.532139006648619"
+						},
+						"links": {
+							"self": "/sports/789"
+						}
+					},
+					{
+						"data": {
+							"id": 69,
+							"type": "sports",
+							"weight": "0.528707873776899"
+						},
+						"links": {
+							"self": "/sports/69"
+						}
+					},
+					{
+						"data": {
+							"id": 794,
+							"type": "sports",
+							"weight": "0.528707873776899"
+						},
+						"links": {
+							"self": "/sports/794"
+						}
+					}
+				],
+				"context": {
+					"data": {}
+				},
+				"tags": {
+					"data": [
+						"downhill-skiing",
+						"extreme-skiing",
+						"giant-slalom",
+						"glade-skiing",
+						"grass-skiing",
+						"skiing-on-grass",
+						"para-alpine-skiing",
+						"slalom",
+						"speed-skiing",
+						"super-g",
+						"skis",
+						"descent",
+						"ski-station",
+						"ski-slope",
+						"glading",
+						"EN_PLAYLIST_ice-snow",
+						"EN_PLAYLIST_explore-travel"
+					]
+				},
+				"images": {
+					"data": [
+						{
+							"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/66/ski.jpg",
+							"variants": [
+								{
+									"thumbnail": {
+										"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/66/thumbnail_ski.jpg"
+									},
+									"medium": {
+										"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/66/medium_ski.jpg"
+									}
+								}
+							]
+						}
+					]
+				}
+			},
+			"links": {
+				"self": "/sports/66"
+			}
+		},
+		{
+			"id": 262,
+			"type": "sports",
+			"attributes": {
+				"name": "Equitação",
+				"description": "Uma atividade recreativa que você pode praticar em seu cavalo, a cavalgada o levará a um centro de equitação ou a uma trilha natural onde você poderá contemplar a paisagem enquanto utiliza suas técnicas de equitação para dirigir adequadamente seu cavalo. E galopar! ",
+				"parent_id": null,
+				"decathlon_id": 262,
+				"slug": "horseback-riding",
+				"locale": "en-us",
+				"weather": [],
+				"icon": null
+			},
+			"relationships": {
+				"children": [
+					{
+						"data": {
+							"id": 287,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/287"
+						}
+					}
+				],
+				"parent": {
+					"data": {}
+				},
+				"group": {
+					"data": {
+						"id": 14,
+						"type": "groups"
+					},
+					"links": {
+						"self": "/groups/14"
+					}
+				},
+				"related": [
+					{
+						"data": {
+							"id": 694,
+							"type": "sports",
+							"weight": "0.431545543463318"
+						},
+						"links": {
+							"self": "/sports/694"
+						}
+					},
+					{
+						"data": {
+							"id": 700,
+							"type": "sports",
+							"weight": "0.42484011154229"
+						},
+						"links": {
+							"self": "/sports/700"
+						}
+					},
+					{
+						"data": {
+							"id": 661,
+							"type": "sports",
+							"weight": "0.418026958977145"
+						},
+						"links": {
+							"self": "/sports/661"
+						}
+					},
+					{
+						"data": {
+							"id": 693,
+							"type": "sports",
+							"weight": "0.338877567730366"
+						},
+						"links": {
+							"self": "/sports/693"
+						}
+					},
+					{
+						"data": {
+							"id": 698,
+							"type": "sports",
+							"weight": "0.26196025157715"
+						},
+						"links": {
+							"self": "/sports/698"
+						}
+					},
+					{
+						"data": {
+							"id": 411,
+							"type": "sports",
+							"weight": "0.197524248456139"
+						},
+						"links": {
+							"self": "/sports/411"
+						}
+					},
+					{
+						"data": {
+							"id": 806,
+							"type": "sports",
+							"weight": "0.157665670762139"
+						},
+						"links": {
+							"self": "/sports/806"
+						}
+					},
+					{
+						"data": {
+							"id": 695,
+							"type": "sports",
+							"weight": "0.146217212666959"
+						},
+						"links": {
+							"self": "/sports/695"
+						}
+					},
+					{
+						"data": {
+							"id": 173,
+							"type": "sports",
+							"weight": "0.131198734348049"
+						},
+						"links": {
+							"self": "/sports/173"
+						}
+					},
+					{
+						"data": {
+							"id": 19,
+							"type": "sports",
+							"weight": "0.122849440886636"
+						},
+						"links": {
+							"self": "/sports/19"
+						}
+					}
+				],
+				"context": {
+					"data": {}
+				},
+				"tags": {
+					"data": [
+						"horseback-trail-riding",
+						"equestrian-center",
+						"trail-riding",
+						"equestrianism",
+						"gallop",
+						"trot",
+						"equestrian-tourism",
+						"horse",
+						"EN_PLAYLIST_explore-travel",
+						"EN_PLAYLIST_discovery",
+						"EN_PLAYLIST_explore-travel",
+						"EN_PLAYLIST_discovery"
+					]
+				},
+				"images": {
+					"data": [
+						{
+							"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/262/equitation.jpg",
+							"variants": [
+								{
+									"thumbnail": {
+										"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/262/thumbnail_equitation.jpg"
+									},
+									"medium": {
+										"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/262/medium_equitation.jpg"
+									}
+								}
+							]
+						}
+					]
+				}
+			},
+			"links": {
+				"self": "/sports/262"
+			}
+		},
+		{
+			"id": 81,
+			"type": "sports",
+			"attributes": {
+				"name": "Futebol",
+				"description": " O futebol (ou futebol na Europa) é um esporte praticado principalmente ao ar livre em um gramado entre duas equipes. O objetivo é simples: enviar a bola para o gol da equipe adversária quase inteiramente com seus pés e marcar pontos. Você está pronto para enganar seu oponente com seu melhor truque?",
+				"parent_id": null,
+				"decathlon_id": 81,
+				"slug": "soccer",
+				"locale": "en-us",
+				"weather": [],
+				"icon": "https://sports-api-production.s3.amazonaws.com/uploads/sport/icon/81/81.svg"
+			},
+			"relationships": {
+				"children": [
+					{
+						"data": {
+							"id": 82,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/82"
+						}
+					},
+					{
+						"data": {
+							"id": 725,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/725"
+						}
+					},
+					{
+						"data": {
+							"id": 727,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/727"
+						}
+					},
+					{
+						"data": {
+							"id": 728,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/728"
+						}
+					},
+					{
+						"data": {
+							"id": 729,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/729"
+						}
+					},
+					{
+						"data": {
+							"id": 730,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/730"
+						}
+					},
+					{
+						"data": {
+							"id": 732,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/732"
+						}
+					},
+					{
+						"data": {
+							"id": 731,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/731"
+						}
+					},
+					{
+						"data": {
+							"id": 83,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/83"
+						}
+					},
+					{
+						"data": {
+							"id": 84,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/84"
+						}
+					},
+					{
+						"data": {
+							"id": 86,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/86"
+						}
+					},
+					{
+						"data": {
+							"id": 726,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/726"
+						}
+					}
+				],
+				"parent": {
+					"data": {}
+				},
+				"group": {
+					"data": {
+						"id": 16,
+						"type": "groups"
+					},
+					"links": {
+						"self": "/groups/16"
+					}
+				},
+				"related": [
+					{
+						"data": {
+							"id": 87,
+							"type": "sports",
+							"weight": "0.701823269529116"
+						},
+						"links": {
+							"self": "/sports/87"
+						}
+					},
+					{
+						"data": {
+							"id": 715,
+							"type": "sports",
+							"weight": "0.469642508475113"
+						},
+						"links": {
+							"self": "/sports/715"
+						}
+					},
+					{
+						"data": {
+							"id": 84,
+							"type": "sports",
+							"weight": "0.455359410963551"
+						},
+						"links": {
+							"self": "/sports/84"
+						}
+					},
+					{
+						"data": {
+							"id": 718,
+							"type": "sports",
+							"weight": "0.445562296218411"
+						},
+						"links": {
+							"self": "/sports/718"
+						}
+					},
+					{
+						"data": {
+							"id": 714,
+							"type": "sports",
+							"weight": "0.433368669544831"
+						},
+						"links": {
+							"self": "/sports/714"
+						}
+					},
+					{
+						"data": {
+							"id": 728,
+							"type": "sports",
+							"weight": "0.419280352557845"
+						},
+						"links": {
+							"self": "/sports/728"
+						}
+					},
+					{
+						"data": {
+							"id": 731,
+							"type": "sports",
+							"weight": "0.415241277531626"
+						},
+						"links": {
+							"self": "/sports/731"
+						}
+					},
+					{
+						"data": {
+							"id": 713,
+							"type": "sports",
+							"weight": "0.40794078582785"
+						},
+						"links": {
+							"self": "/sports/713"
+						}
+					},
+					{
+						"data": {
+							"id": 86,
+							"type": "sports",
+							"weight": "0.40631378000678"
+						},
+						"links": {
+							"self": "/sports/86"
+						}
+					},
+					{
+						"data": {
+							"id": 719,
+							"type": "sports",
+							"weight": "0.39561411912234"
+						},
+						"links": {
+							"self": "/sports/719"
+						}
+					}
+				],
+				"context": {
+					"data": {}
+				},
+				"tags": {
+					"data": [
+						"5-a-side-soccer",
+						"beach-soccer",
+						"bubble-soccer",
+						"futsal",
+						"indoor-soccer",
+						"jorkyball",
+						"paralympic-soccer",
+						"power-soccer",
+						"roller-soccer",
+						"street-soccer",
+						"swamp-soccer",
+						"EN_PLAYLIST_team-it-up",
+						"EN_PLAYLIST_ball-fan"
+					]
+				},
+				"images": {
+					"data": [
+						{
+							"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/81/soccer.jpg",
+							"variants": [
+								{
+									"thumbnail": {
+										"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/81/thumbnail_soccer.jpg"
+									},
+									"medium": {
+										"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/81/medium_soccer.jpg"
+									}
+								}
+							]
+						}
+					]
+				}
+			},
+			"links": {
+				"self": "/sports/81"
+			}
+		},
+		{
+			"id": 281,
+			"type": "sports",
+			"attributes": {
+				"name": "BMX",
+				"description": "BMX ('Bicycle motocross') é um esporte individual extremo de ciclismo, recreativo ou competitivo, praticado em velocidade durante as corridas ou de forma acrobática, completando truques técnicos chamados 'freestyle'. Se você estiver preparado para absorver muito choque em pistas acidentadas e tiver boa explosividade, você estará deslumbrando em BMX.",
+				"parent_id": null,
+				"decathlon_id": 281,
+				"slug": "bmx",
+				"locale": "en-us",
+				"weather": [],
+				"icon": "https://sports-api-production.s3.amazonaws.com/uploads/sport/icon/281/281.svg"
+			},
+			"relationships": {
+				"children": [
+					{
+						"data": {
+							"id": 657,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/657"
+						}
+					}
+				],
+				"parent": {
+					"data": {}
+				},
+				"group": {
+					"data": {
+						"id": 11,
+						"type": "groups"
+					},
+					"links": {
+						"self": "/groups/11"
+					}
+				},
+				"related": [
+					{
+						"data": {
+							"id": 657,
+							"type": "sports",
+							"weight": "0.518083002321304"
+						},
+						"links": {
+							"self": "/sports/657"
+						}
+					},
+					{
+						"data": {
+							"id": 282,
+							"type": "sports",
+							"weight": "0.22137501389301"
+						},
+						"links": {
+							"self": "/sports/282"
+						}
+					},
+					{
+						"data": {
+							"id": 165,
+							"type": "sports",
+							"weight": "0.220581235794263"
+						},
+						"links": {
+							"self": "/sports/165"
+						}
+					},
+					{
+						"data": {
+							"id": 258,
+							"type": "sports",
+							"weight": "0.197578744186982"
+						},
+						"links": {
+							"self": "/sports/258"
+						}
+					},
+					{
+						"data": {
+							"id": 285,
+							"type": "sports",
+							"weight": "0.197230437800202"
+						},
+						"links": {
+							"self": "/sports/285"
+						}
+					},
+					{
+						"data": {
+							"id": 20,
+							"type": "sports",
+							"weight": "0.167770451488158"
+						},
+						"links": {
+							"self": "/sports/20"
+						}
+					},
+					{
+						"data": {
+							"id": 841,
+							"type": "sports",
+							"weight": "0.167568160612598"
+						},
+						"links": {
+							"self": "/sports/841"
+						}
+					},
+					{
+						"data": {
+							"id": 660,
+							"type": "sports",
+							"weight": "0.166810352356472"
+						},
+						"links": {
+							"self": "/sports/660"
+						}
+					},
+					{
+						"data": {
+							"id": 19,
+							"type": "sports",
+							"weight": "0.161693307982803"
+						},
+						"links": {
+							"self": "/sports/19"
+						}
+					},
+					{
+						"data": {
+							"id": 840,
+							"type": "sports",
+							"weight": "0.132518057284736"
+						},
+						"links": {
+							"self": "/sports/840"
+						}
+					}
+				],
+				"context": {
+					"data": {}
+				},
+				"tags": {
+					"data": [
+						"bicycle-motocross",
+						"bike-motocross",
+						"cycling",
+						"biking",
+						"bmx-bikes",
+						"bmx-racing",
+						"cyclist",
+						"tracks",
+						"race",
+						"stunts",
+						"tricks",
+						"air-tricks",
+						"flatland-tricks",
+						"EN_PLAYLIST_wheels-on",
+						"EN_PLAYLIST_thrills"
+					]
+				},
+				"images": {
+					"data": [
+						{
+							"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/281/bmx.jpg",
+							"variants": [
+								{
+									"thumbnail": {
+										"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/281/thumbnail_bmx.jpg"
+									},
+									"medium": {
+										"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/281/medium_bmx.jpg"
+									}
+								}
+							]
+						}
+					]
+				}
+			},
+			"links": {
+				"self": "/sports/281"
+			}
+		},
+		{
+			"id": 29,
+			"type": "sports",
+			"attributes": {
+				"name": "A caça",
+				"description": "A caça é uma atividade que, com uma licença e uma arma, permite perseguir e capturar diferentes animais na natureza. Este esporte, praticado sozinho ou em grupo, requer habilidade, precisão, calma e acima de tudo, muita paciência!",
+				"parent_id": null,
+				"decathlon_id": 29,
+				"slug": "hunting",
+				"locale": "en-us",
+				"weather": [],
+				"icon": "https://sports-api-production.s3.amazonaws.com/uploads/sport/icon/29/29.svg"
+			},
+			"relationships": {
+				"children": [
+					{
+						"data": {
+							"id": 621,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/621"
+						}
+					},
+					{
+						"data": {
+							"id": 622,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/622"
+						}
+					},
+					{
+						"data": {
+							"id": 623,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/623"
+						}
+					},
+					{
+						"data": {
+							"id": 619,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/619"
+						}
+					},
+					{
+						"data": {
+							"id": 618,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/618"
+						}
+					},
+					{
+						"data": {
+							"id": 620,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/620"
+						}
+					},
+					{
+						"data": {
+							"id": 617,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/617"
+						}
+					},
+					{
+						"data": {
+							"id": 624,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/624"
+						}
+					}
+				],
+				"parent": {
+					"data": {}
+				},
+				"group": {
+					"data": {
+						"id": 9,
+						"type": "groups"
+					},
+					"links": {
+						"self": "/groups/9"
+					}
+				},
+				"related": [
+					{
+						"data": {
+							"id": 618,
+							"type": "sports",
+							"weight": "0.645236978432394"
+						},
+						"links": {
+							"self": "/sports/618"
+						}
+					},
+					{
+						"data": {
+							"id": 619,
+							"type": "sports",
+							"weight": "0.527040095960132"
+						},
+						"links": {
+							"self": "/sports/619"
+						}
+					},
+					{
+						"data": {
+							"id": 624,
+							"type": "sports",
+							"weight": "0.468977447309848"
+						},
+						"links": {
+							"self": "/sports/624"
+						}
+					},
+					{
+						"data": {
+							"id": 621,
+							"type": "sports",
+							"weight": "0.443369136420696"
+						},
+						"links": {
+							"self": "/sports/621"
+						}
+					},
+					{
+						"data": {
+							"id": 620,
+							"type": "sports",
+							"weight": "0.325036623507844"
+						},
+						"links": {
+							"self": "/sports/620"
+						}
+					},
+					{
+						"data": {
+							"id": 623,
+							"type": "sports",
+							"weight": "0.297009932000251"
+						},
+						"links": {
+							"self": "/sports/623"
+						}
+					},
+					{
+						"data": {
+							"id": 617,
+							"type": "sports",
+							"weight": "0.253812220017031"
+						},
+						"links": {
+							"self": "/sports/617"
+						}
+					},
+					{
+						"data": {
+							"id": 189,
+							"type": "sports",
+							"weight": "0.251467709651689"
+						},
+						"links": {
+							"self": "/sports/189"
+						}
+					},
+					{
+						"data": {
+							"id": 622,
+							"type": "sports",
+							"weight": "0.162064735543198"
+						},
+						"links": {
+							"self": "/sports/622"
+						}
+					},
+					{
+						"data": {
+							"id": 875,
+							"type": "sports",
+							"weight": "0.114144630990725"
+						},
+						"links": {
+							"self": "/sports/875"
+						}
+					}
+				],
+				"context": {
+					"data": {}
+				},
+				"tags": {
+					"data": [
+						"big-game-hunting",
+						"bow-hunting",
+						"deer-hunting",
+						"fox-hunting",
+						"trapping",
+						"turkey-hunting",
+						"EN_PLAYLIST_explore-travel"
+					]
+				},
+				"images": {
+					"data": [
+						{
+							"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/29/hunting.jpg",
+							"variants": [
+								{
+									"thumbnail": {
+										"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/29/thumbnail_hunting.jpg"
+									},
+									"medium": {
+										"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/29/medium_hunting.jpg"
+									}
+								}
+							]
+						}
+					]
+				}
+			},
+			"links": {
+				"self": "/sports/29"
+			}
+		},
+		{
+			"id": 109,
+			"type": "sports",
+			"attributes": {
+				"name": "Formatação",
+				"description": "O treino de força sem carga inclui todas as aulas recreativas e formas de exercício que utilizam apenas o seu corpo para exercitar os músculos. Não são utilizados pesos ou massas externas! Cadeiras de parede, agachamentos, almofadas, pranchas, flexões ... estes são apenas alguns dos exercícios que aumentarão a sua resistência de resistência. A melhor parte desta actividade é que o pode fazer em praticamente qualquer lugar, a qualquer hora. Não há razão para adiar!",
+				"parent_id": null,
+				"decathlon_id": 109,
+				"slug": "fitness",
+				"locale": "en-us",
+				"weather": [],
+				"icon": "https://sports-api-production.s3.amazonaws.com/uploads/sport/icon/109/109.svg"
+			},
+			"relationships": {
+				"children": [
+					{
+						"data": {
+							"id": 704,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/704"
+						}
+					},
+					{
+						"data": {
+							"id": 705,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/705"
+						}
+					},
+					{
+						"data": {
+							"id": 112,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/112"
+						}
+					},
+					{
+						"data": {
+							"id": 425,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/425"
+						}
+					},
+					{
+						"data": {
+							"id": 706,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/706"
+						}
+					},
+					{
+						"data": {
+							"id": 111,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/111"
+						}
+					},
+					{
+						"data": {
+							"id": 707,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/707"
+						}
+					},
+					{
+						"data": {
+							"id": 951,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/951"
+						}
+					}
+				],
+				"parent": {
+					"data": {}
+				},
+				"group": {
+					"data": {
+						"id": 15,
+						"type": "groups"
+					},
+					"links": {
+						"self": "/groups/15"
+					}
+				},
+				"related": [
+					{
+						"data": {
+							"id": 705,
+							"type": "sports",
+							"weight": "0.120254280444348"
+						},
+						"links": {
+							"self": "/sports/705"
+						}
+					}
+				],
+				"context": {
+					"data": {}
+				},
+				"tags": {
+					"data": [
+						"calisthenics",
+						"circuit-training",
+						"cross-training",
+						"pilates",
+						"plyometrics",
+						"street-workout",
+						"stretching",
+						"bodyweight-exercises",
+						"strength-training-exercises",
+						"squat",
+						"push-up",
+						"plank",
+						"wall-sits",
+						"lunge",
+						"EN_PLAYLIST_back-into-shape",
+						"EN_PLAYLIST_cardio"
+					]
+				},
+				"images": {
+					"data": [
+						{
+							"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/109/bodyweight.jpg",
+							"variants": [
+								{
+									"thumbnail": {
+										"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/109/thumbnail_bodyweight.jpg"
+									},
+									"medium": {
+										"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/109/medium_bodyweight.jpg"
+									}
+								}
+							]
+						}
+					]
+				}
+			},
+			"links": {
+				"self": "/sports/109"
+			}
+		},
+		{
+			"id": 322,
+			"type": "sports",
+			"attributes": {
+				"name": "Navegando",
+				"description": "O Navegando é um esporte individual, amigável ou competitivo, que você pratica enquanto está em uma prancha, surfando ondas, principalmente na costa do oceano. O desafio para os iniciantes é principalmente o de se endireitar deitado para se levantar, por isso você precisará de bom equilíbrio e muita paciência. Você será capaz de surfar a onda?",
+				"parent_id": null,
+				"decathlon_id": 322,
+				"slug": "surfing",
+				"locale": "en-us",
+				"weather": [],
+				"icon": "https://sports-api-production.s3.amazonaws.com/uploads/sport/icon/322/322.svg"
+			},
+			"relationships": {
+				"children": [
+					{
+						"data": {
+							"id": 471,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/471"
+						}
+					},
+					{
+						"data": {
+							"id": 823,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/823"
+						}
+					},
+					{
+						"data": {
+							"id": 824,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/824"
+						}
+					},
+					{
+						"data": {
+							"id": 825,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/825"
+						}
+					},
+					{
+						"data": {
+							"id": 826,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/826"
+						}
+					},
+					{
+						"data": {
+							"id": 827,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/827"
+						}
+					},
+					{
+						"data": {
+							"id": 828,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/828"
+						}
+					},
+					{
+						"data": {
+							"id": 829,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/829"
+						}
+					},
+					{
+						"data": {
+							"id": 830,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/830"
+						}
+					},
+					{
+						"data": {
+							"id": 321,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/321"
+						}
+					},
+					{
+						"data": {
+							"id": 320,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/320"
+						}
+					}
+				],
+				"parent": {
+					"data": {}
+				},
+				"group": {
+					"data": {
+						"id": 25,
+						"type": "groups"
+					},
+					"links": {
+						"self": "/groups/25"
+					}
+				},
+				"related": [
+					{
+						"data": {
+							"id": 823,
+							"type": "sports",
+							"weight": "0.620560303097534"
+						},
+						"links": {
+							"self": "/sports/823"
+						}
+					},
+					{
+						"data": {
+							"id": 828,
+							"type": "sports",
+							"weight": "0.514518520568"
+						},
+						"links": {
+							"self": "/sports/828"
+						}
+					},
+					{
+						"data": {
+							"id": 827,
+							"type": "sports",
+							"weight": "0.481880622490283"
+						},
+						"links": {
+							"self": "/sports/827"
+						}
+					},
+					{
+						"data": {
+							"id": 830,
+							"type": "sports",
+							"weight": "0.432560500862746"
+						},
+						"links": {
+							"self": "/sports/830"
+						}
+					},
+					{
+						"data": {
+							"id": 372,
+							"type": "sports",
+							"weight": "0.391315884410332"
+						},
+						"links": {
+							"self": "/sports/372"
+						}
+					},
+					{
+						"data": {
+							"id": 320,
+							"type": "sports",
+							"weight": "0.387466525888974"
+						},
+						"links": {
+							"self": "/sports/320"
+						}
+					},
+					{
+						"data": {
+							"id": 321,
+							"type": "sports",
+							"weight": "0.355335512265853"
+						},
+						"links": {
+							"self": "/sports/321"
+						}
+					},
+					{
+						"data": {
+							"id": 319,
+							"type": "sports",
+							"weight": "0.34952328115192"
+						},
+						"links": {
+							"self": "/sports/319"
+						}
+					},
+					{
+						"data": {
+							"id": 825,
+							"type": "sports",
+							"weight": "0.326737341844781"
+						},
+						"links": {
+							"self": "/sports/825"
+						}
+					},
+					{
+						"data": {
+							"id": 323,
+							"type": "sports",
+							"weight": "0.270828446675678"
+						},
+						"links": {
+							"self": "/sports/323"
+						}
+					}
+				],
+				"context": {
+					"data": {}
+				},
+				"tags": {
+					"data": [
+						"goofy",
+						"regular",
+						"surf-board",
+						"big-wave",
+						"dirtsurfing",
+						"flowriding",
+						"kneeboarding",
+						"lake-surfing",
+						"river-surfing",
+						"skimboarding",
+						"skysurfing",
+						"tow-in-surfing",
+						"EN_PLAYLIST_water-sports",
+						"EN_PLAYLIST_explore-travel"
+					]
+				},
+				"images": {
+					"data": [
+						{
+							"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/322/surfing.jpg",
+							"variants": [
+								{
+									"thumbnail": {
+										"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/322/thumbnail_surfing.jpg"
+									},
+									"medium": {
+										"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/322/medium_surfing.jpg"
+									}
+								}
+							]
+						}
+					]
+				}
+			},
+			"links": {
+				"self": "/sports/322"
+			}
+		},
+		{
+			"id": 163,
+			"type": "sports",
+			"attributes": {
+				"name": "Scooter",
+				"description": "Você pode pensar que a scootering é apenas um jogo infantil, mas é também um esporte completo, praticado individualmente, por diversão ou em competição. Com um pé sobre uma prancha apoiada em um guidão longo e um pé para impulsionar você, a scooter lhe permitirá mover-se a toda velocidade ou fazer saltos e figuras acrobáticas fora do comum! ",
+				"parent_id": null,
+				"decathlon_id": 163,
+				"slug": "scooter",
+				"locale": "en-us",
+				"weather": [],
+				"icon": "https://sports-api-production.s3.amazonaws.com/uploads/sport/icon/163/163.svg"
+			},
+			"relationships": {
+				"children": [
+					{
+						"data": {
+							"id": 165,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/165"
+						}
+					},
+					{
+						"data": {
+							"id": 483,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/483"
+						}
+					}
+				],
+				"parent": {
+					"data": {}
+				},
+				"group": {
+					"data": {
+						"id": 25,
+						"type": "groups"
+					},
+					"links": {
+						"self": "/groups/25"
+					}
+				},
+				"related": [
+					{
+						"data": {
+							"id": 165,
+							"type": "sports",
+							"weight": "0.151706562202568"
+						},
+						"links": {
+							"self": "/sports/165"
+						}
+					}
+				],
+				"context": {
+					"data": {}
+				},
+				"tags": {
+					"data": [
+						"freestyle-scooter",
+						"kick-scooter",
+						"push-scooter",
+						"deck",
+						"handlebar",
+						"three-wheels",
+						"four-wheels",
+						"electric-scooter",
+						"motorized-scooter",
+						"electric-kick-scooter",
+						"tricks",
+						"jumps",
+						"scooter-tricks",
+						"urban-scooter",
+						"EN_PLAYLIST_workout-solo",
+						"EN_PLAYLIST_wheels-on",
+						"EN_PLAYLIST_explore-travel"
+					]
+				},
+				"images": {
+					"data": [
+						{
+							"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/163/kickscooter.jpg",
+							"variants": [
+								{
+									"thumbnail": {
+										"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/163/thumbnail_kickscooter.jpg"
+									},
+									"medium": {
+										"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/163/medium_kickscooter.jpg"
+									}
+								}
+							]
+						}
+					]
+				}
+			},
+			"links": {
+				"self": "/sports/163"
+			}
+		},
+		{
+			"id": 288,
+			"type": "sports",
+			"attributes": {
+				"name": "Equitação ocidental",
+				"description": "A equitação ocidental inclui uma variedade de eventos de velocidade e adestramento inspirados nos cowboys e ranchos do passado. Uma delas é o reinar, uma disciplina na qual você tem que segurar as rédeas do cavalo em uma mão e executar uma série de truques altamente técnicos. Você será tão ágil quanto seu cavalo é dócil?\n",
+				"parent_id": null,
+				"decathlon_id": 288,
+				"slug": "horseback-western-riding",
+				"locale": "en-us",
+				"weather": [],
+				"icon": "https://sports-api-production.s3.amazonaws.com/uploads/sport/icon/288/288.svg"
+			},
+			"relationships": {
+				"children": [
+					{
+						"data": {
+							"id": 700,
+							"type": "sports"
+						},
+						"links": {
+							"self": "/sports/700"
+						}
+					}
+				],
+				"parent": {
+					"data": {}
+				},
+				"group": {
+					"data": {
+						"id": 14,
+						"type": "groups"
+					},
+					"links": {
+						"self": "/groups/14"
+					}
+				},
+				"related": {
+					"data": {}
+				},
+				"context": {
+					"data": {}
+				},
+				"tags": {
+					"data": [
+						"horse-riding",
+						"horseback",
+						"western-riding",
+						"western-equitation",
+						"cowboy",
+						"cowboy-riding",
+						"dressage",
+						"reining-pattern",
+						"horse"
+					]
+				},
+				"images": {
+					"data": [
+						{
+							"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/288/dressage.jpg",
+							"variants": [
+								{
+									"thumbnail": {
+										"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/288/thumbnail_dressage.jpg"
+									},
+									"medium": {
+										"url": "https://sports-api-production.s3.amazonaws.com/uploads/sport/images/288/medium_dressage.jpg"
+									}
+								}
+							]
+						}
+					]
+				}
+			},
+			"links": {
+				"self": "/sports/288"
+			}
+		}
+		
+	],
+	"meta": {
+		"copyright": "Decathlon Canada",
+		"authors": [
+			"Caio Bianchi",
+			"Simon Guertin"
+		]
+	},
+	"links": {
+		"self": "/sports"
+	}}
